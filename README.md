@@ -1,11 +1,11 @@
-### 🎃 Explore para descobrir sobre mim e meus projetos! 🎃
+### 🎃 Explore about me and my projects 🎃
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorfrezzarin/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-frezzarin-b30524227/)
 
 ![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=cha-gelado&show_icons=true&theme=tokyonight)
 
-## 👽 Tecnologias utilizadas 👽 
+## 👽 Technologies i use 👽 
 
 <div style="display: inline_block"><br/>
     <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
